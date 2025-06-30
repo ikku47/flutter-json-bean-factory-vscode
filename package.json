@@ -3,7 +3,7 @@
   "displayName": "Flutter JSON Bean Factory",
   "description": "Generate Dart data classes from JSON for Flutter projects with toJson/fromJson methods",
   "version": "1.0.0",
-  "publisher": "flutter-json-bean-factory",
+  "publisher": "ikku47",
   "engines": {
     "vscode": "^1.74.0"
   },
